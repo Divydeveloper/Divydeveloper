@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divydeveloper
 - 👀 I’m interested in Developing websites
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently working with PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me visit my webpage
 - 😄 Pronouns: DEVIL
